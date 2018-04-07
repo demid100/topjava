@@ -13,7 +13,6 @@ Hibernate, делаем конверторы для типов LocalDateTime (Ja
             Spring Data Jpa.
 -   Используются самые востребованные на сегодняшний момент фреймворки: Maven, Spring Security 4
             вместе с Spring Security Test, наиболее удобный для работы с базой проект Spring Data Jpa, библиотека логирования logback, реализующая SLF4J, повсеместно используемый Bootstrap и jQuery.
-
 #### <a href="http://topjava.herokuapp.com/" target=_blank>Демо разрабатываемого приложения</a>
 
 ## План проекта (ссылки на некоторые темы открыты для просмотра)
