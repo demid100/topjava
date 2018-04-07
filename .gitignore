@@ -5,3 +5,4 @@ target
 log
 *.patch
 .gitignore
+*.md
